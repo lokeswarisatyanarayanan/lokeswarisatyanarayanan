@@ -2,7 +2,7 @@
 
 ### I am Lokeswari. Writing good code gives me the same rush and satisfaction as solving a difficult math problem did when I was in 8th grade. 
 
-### Not very on Github because I prefer to spend after work time with my Books, Ukulele or doodling something! 😄
+### Not very active on Github because I prefer to spend after work time with my Books, Ukulele or doodling something! 😄
 
 - 🔭 I’m currently working on React native, SwiftUI, UIKit, Everything Swift ✨
 - 👯 I’m looking to collaborate on anything interesting. I am a sucker for good animations. 
