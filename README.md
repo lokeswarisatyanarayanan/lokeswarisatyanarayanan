@@ -7,6 +7,6 @@
 - 🔭 I’m currently working on React native, SwiftUI, UIKit, Everything Swift ✨
 - 👯 I’m looking to collaborate on anything interesting. I am a sucker for good animations. 
 - 💬 Ask me about Swift, React native. 
-- 📫 How to reach me: [LinkedIN](www.linkedin.com/in/lokeswari-satyanarayana), [Twitter](https://twitter.com/sindhu1397)
+- 📫 How to reach me: [Linkedin](www.linkedin.com/in/lokeswari-satyanarayana), [Twitter](https://twitter.com/sindhu1397)
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I am currently obsessed with drawing through code. It is so much fun. 
